@@ -1,6 +1,6 @@
 # Hermes Chain Detective
 
-Hermes Chain Detective is a **Hermes-native blockchain intelligence agent** for hackathon demos. It investigates arbitrary blockchain addresses and produces a concise intelligence report with evidence, risk hints, and a reasoning trace.
+Hermes Chain Detective is a **Hermes-native blockchain intelligence agent**. It investigates arbitrary blockchain addresses and produces a concise intelligence report with evidence, risk hints, and a reasoning trace.
 
 ## Why this is Hermes-native
 
