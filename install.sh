@@ -6,5 +6,5 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
-echo "✅ Installation complete."
+echo "Installation complete."
 echo "Copy .env.example to .env and fill in secrets before running."
